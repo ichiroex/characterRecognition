@@ -1,9 +1,9 @@
 # characterRecognition
 
 #Requirements
-`pip install poster`
+    $ pip install poster
 
 #Usage
-`python characterRecognition.py [JPEG file]`
+    $ python characterRecognition.py [JPEG file]
 
 
